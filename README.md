@@ -10,18 +10,16 @@
 ### 🌈 Github Stats:
 <img align="left" src = "https://github-readme-stats.vercel.app/api?username=1024shao&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 <img align="right" src = "http://github-readme-streak-stats.herokuapp.com?user=1024shao&theme=dracula">
+<hr/>
 
 ### 📫 How to reach me:
-- :octocat: [github@xiaorang](https://github.com/1024shao)
-- :email: [gmail@xiaorang](mailto:3059680677@qq.com)
-- :blog: [vujson's earth](http://81.69.228.97:8090/#blog)
-
-<h3> 👨🏻‍💻 About Me </h3>
-
+- :octocat: [github@1024shao](https://github.com/1024shao)
+- :email: [eamil@vujson](mailto:3059680677@qq.com)
+- 🚛 [vujson's earth](http://81.69.228.97:8090/#blog)
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🍭 Write Articles on [Yueque](https://www.yuque.com/1024shao/java) with [github](https://github.com/1024shao/)
+1. 🍭 Write Articles on [1024shao](https://www.yuque.com/1024shao) with [github](https://github.com/1024shao/)
 2. 🍹 Study on [Bilibili](https://www.bilibili.com/)
 <!--END_SECTION:activity-->
 
