@@ -1,15 +1,15 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=1024shao%20coder%20👨‍💻&width=800&height=150)](https://github.com/Akshay090/svg-banners)
 <hr/>
 
-###introduction:
+### ✈️ introduction:
 <a href="https://count.getloli.com"><img align="right" src="https://count.getloli.com/get/@1024shao?theme=rule34"></a>
 <h4>长沙某不知名大学的大三菜狗 🚴‍   Follow一起学习! 🤟</h4>   
 <h5>目标全栈的前端攻城狮😄</h3>
 <h5>目前学习方向: 前端性能优化 🚡 </h3>
 
 ### 🌈 Github Stats:
-<img src = "https://github-readme-stats.vercel.app/api?username=1024shao&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
-<img src = "http://github-readme-streak-stats.herokuapp.com?user=1024shao&theme=dracula">
+<img align="left" src = "https://github-readme-stats.vercel.app/api?username=1024shao&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+<img align="right" src = "http://github-readme-streak-stats.herokuapp.com?user=1024shao&theme=dracula">
 
 ### 📫 How to reach me:
 - :octocat: [github@xiaorang](https://github.com/1024shao)
