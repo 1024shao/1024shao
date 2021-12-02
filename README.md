@@ -1,4 +1,5 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=1024shao%20coder%20👨‍💻&width=800&height=150)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=coderVuJson🤹&width=1000&height=200)](https://github.com/Akshay090/svg-banners)
+
 <hr/>
 
 ### ✈️ introduction:
