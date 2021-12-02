@@ -1,24 +1,23 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Welcom💖&width=1000&height=400)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=1024shao%20coder%20👨‍💻&width=800&height=150)](https://github.com/Akshay090/svg-banners)
+<hr/>
 
-<h1 align="center">I'm xiaorang</h1>
-<h3 align="center">A passionate java developer from China</h3>
+### 🤺 introduction:
+<h4>长沙某不知名大学的大三菜狗🚴‍♂️</h4>
+<h3 align="center">目标全栈的前端攻城狮😄</h3>
 
-### 🌈 Github Stats:
 <a href="https://count.getloli.com"><img align="center" src="https://count.getloli.com/get/@1024shao?theme=rule34"></a><br>
+### 🌈 Github Stats:
 <img src = "https://github-readme-stats.vercel.app/api?username=1024shao&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 <img src = "http://github-readme-streak-stats.herokuapp.com?user=1024shao&theme=dracula">
 <img src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1024shao&theme=monokai">
 
 ### 📫 How to reach me:
 - :octocat: [github@xiaorang](https://github.com/1024shao)
-- :email: [gmail@xiaorang](mailto:15019474951@gmail.com)
-- :tv: [bilibili@xiaorang](https://space.bilibili.com/307881917)
-- :bird: [yuque@xiaorang](https://www.yuque.com/1024shao)
+- :email: [gmail@xiaorang](mailto:3059680677@qq.com)
+- :blog: [vujson's earth](http://81.69.228.97:8090/#blog)
 
 <h3> 👨🏻‍💻 About Me </h3>
-| :pencil2: | :book:  |
-| --- | --- |
-| [Blogs](https://1024shao.github.io/) | [Books](https://www.yuque.com/1024shao/java) |
+
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
