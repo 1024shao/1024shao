@@ -9,13 +9,11 @@
 :vulcan_salute: 𝑰 𝒑𝒖𝒕 𝒎𝒐𝒔𝒕𝒍𝒚 𝒐𝒇 𝒎𝒚 𝒇𝒐𝒄𝒖𝒔 𝒐𝒏 𝒘𝒆𝒃 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕 𝒘𝒊𝒕𝒉 𝑱𝒂𝒗𝒂𝑺𝒄𝒓𝒊𝒑𝒕, 𝒂𝒏𝒅 𝑰'𝒎 𝒂 𝑽𝒖𝒆.𝒋𝒔 𝒏𝒆𝒓𝒅.
 <br/>
 <br/>
-💬 wechat：xptz15387507459
+💬 wechat：<em>xptz15387507459</em>
 ### 🌈 Github Stats:
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=1024shao&bg_color=10,65db9f,338ed1&title_color=fff&text_color=fff">
+<img align="left" height='165px' src="https://github-readme-stats.vercel.app/api?username=1024shao&bg_color=10,65db9f,338ed1&title_color=fff&text_color=fff">
 
  [![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=1024shao&layout=compact)](https://github.com/1024shao/github-readme-stats)
-<br/>
-<br/>
 ## Technology Stack
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
@@ -31,7 +29,7 @@
 ![Echarts](https://img.shields.io/badge/-Echarts-%FF6384?style=flat-square&logo=chart.js)
 ![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![GitLab](https://img.shields.io/badge/-Nuxt.js-FCA121?style=flat-square&logo=Nuxt.js)
+![nuxt](https://img.shields.io/badge/-Nuxt.js-%232C3A42?style=flat-square&logo=Nuxt.js)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 ![chrome](https://badgen.net/badge/icon/chrome?icon=chrome&label)
 ![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)
