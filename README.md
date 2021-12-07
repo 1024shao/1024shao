@@ -13,7 +13,7 @@
 
 :writing_hand: 𝑰 𝒍𝒐𝒗𝒆 𝒔𝒉𝒂𝒓𝒊𝒏𝒈 𝒇𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝒕𝒆𝒄𝒉 𝒔𝒕𝒂𝒄𝒌, 𝒚𝒐𝒖 𝒄𝒂𝒏 𝒄𝒉𝒆𝒄𝒌 𝒎𝒚 𝒓𝒆𝒑𝒐𝒔 𝒄𝒐𝒍𝒍𝒆𝒄𝒕𝒊𝒐𝒏 𝒇𝒐𝒓 𝒎𝒐𝒓𝒆 𝒅𝒆𝒕𝒂𝒊𝒍𝒔.
 ### 🌈 Github Stats:
-<img align="center" src = "https://github-readme-stats.vercel.app/api?username=1024shao&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=1024shao&bg_color=10,65db9f,338ed1&title_color=fff&text_color=fff">
 
 ## Technology Stack
 
