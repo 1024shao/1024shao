@@ -1,4 +1,4 @@
-# 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 xueping Shao
+# 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 Xueping Shao
 <div align=center><img height="150"  src="https://s2.loli.net/2021/12/08/7fag4CkiItY9lzy.png"/></div>
 <a href="https://count.getloli.com"><img align="right" src="https://count.getloli.com/get/@1024shao?theme=rule34"></a>
 <hr/>
