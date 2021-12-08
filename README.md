@@ -1,12 +1,13 @@
-# 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 Xueping Shao
+# 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 Xueping Shao 
 <div align=center><img height="150"  src="https://s2.loli.net/2021/12/08/7fag4CkiItY9lzy.png"/></div>
 <a href="https://count.getloli.com"><img align="right" src="https://count.getloli.com/get/@1024shao?theme=rule34"></a>
 <hr/>
 
+
 ### ✈️ introduction:
 
 𝑰 ❤️ 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!<br/>
-:vulcan_salute: 𝑰 𝒑𝒖𝒕 𝒎𝒐𝒔𝒕𝒍𝒚 𝒐𝒇 𝒎𝒚 𝒇𝒐𝒄𝒖𝒔 𝒐𝒏 𝒘𝒆𝒃 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕 𝒘𝒊𝒕𝒉 𝑱𝒂𝒗𝒂𝑺𝒄𝒓𝒊𝒑𝒕, 𝒂𝒏𝒅 𝑰'𝒎 𝒂 𝑽𝒖𝒆.𝒋𝒔 𝒏𝒆𝒓𝒅.
+:vulcan_salute: 𝑰 𝒑𝒖𝒕 𝒎𝒐𝒔𝒕𝒍𝒚 𝒐𝒇 𝒎𝒚 𝒇𝒐𝒄𝒖𝒔 𝒐𝒏 𝒘𝒆𝒃 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕 𝒘𝒊𝒕𝒉 𝑱𝒂𝒗𝒂𝑺𝒄𝒓𝒊𝒑𝒕, 𝒂𝒏𝒅 𝑰'𝒎 𝒂 𝑽𝒖𝒆.𝒋𝒔 𝒏𝒆𝒓𝒅. 
 <br/>
 <br/>
 💬 wechat：<em>xptz15387507459</em>
@@ -35,5 +36,6 @@
 ![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)
 
 <br>
+<img align="right" height='100px' src="https://s2.loli.net/2021/12/08/915O6BF3eAyHdom.png">
 <hr/>
 <h4 align='center'>不满足是向上的车轮</h4>
