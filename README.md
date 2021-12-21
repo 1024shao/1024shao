@@ -10,7 +10,7 @@
 :vulcan_salute: 𝑰 𝒑𝒖𝒕 𝒎𝒐𝒔𝒕𝒍𝒚 𝒐𝒇 𝒎𝒚 𝒇𝒐𝒄𝒖𝒔 𝒐𝒏 𝒘𝒆𝒃 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕 𝒘𝒊𝒕𝒉 𝑱𝒂𝒗𝒂𝑺𝒄𝒓𝒊𝒑𝒕, 𝒂𝒏𝒅 𝑰'𝒎 𝒂 𝑽𝒖𝒆.𝒋𝒔 𝒏𝒆𝒓𝒅. 
 <br/>
 <br/>
-💬 wechat：<em>xptz15387507459</em>
+💬 wechat：<em>xptz15387507459 🤙 </em>
 ### 🌈 Github Stats:
 <img align="left" height='165px' src="https://github-readme-stats.vercel.app/api?username=1024shao&bg_color=10,65db9f,338ed1&title_color=fff&text_color=fff">
 
