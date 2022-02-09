@@ -4,9 +4,9 @@
 <hr/>
 
 
-### ✈️ 做人要有梦想:
+### ✈️ have a dream:
 <br>
-<h1 align=center>  Maybe it just happens---万一就实现了呢</h1>
+<h1 align=center>  Maybe it just happens</h1>
 
 **个人掘金**:📚 [邵小白呀白](https://juejin.cn/user/210745713517950) 
 <br>
