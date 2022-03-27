@@ -1,9 +1,12 @@
 # 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 Xueping Shao 
 <div align=center><img height="150"  src="https://s2.loli.net/2021/12/08/7fag4CkiItY9lzy.png"/></div>
 <a href="https://count.getloli.com"><img align="right" src="https://count.getloli.com/get/@1024shao?theme=rule34"></a>
+
+
+
 <!-- <hr/> -->
+
 <!-- 
-**个人掘金**:📚 [邵小白呀白](https://juejin.cn/user/210745713517950) 答应我，春招之后一定要好好写文章!!!!!!!!!!!!!!
 <br>
 **个人博客**:📝 [VuJson's earth](http://81.69.228.97:8090/) 目前还在维护中----
 <br>
@@ -41,6 +44,8 @@
 ![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)
 
 <br>
+
+**掘金**:📚 [邵小白](https://juejin.cn/user/210745713517950)
 
 <hr/>
 <h4 align='center'>不满足是向上的车轮</h4>
