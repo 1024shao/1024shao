@@ -1,16 +1,24 @@
 # 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 小白 Shao 
 
 <p align=center>  
-   嘿，恭喜你发现了邵小白。一个有趣又不仅是只有趣的前端小白！
+   
+   <ul>
+   <li>坐标： 湖南长沙</li>
+   <li>个人🏆：蓝桥杯 Web 国二(top 17)、大创省一、掘金新人优秀作者、校级辩论赛季军 </li>
+   <li>自我介绍： 一个脱口秀程序猿,长沙学院 23 届毕业生，未来打算深耕前端方向，👏一起学习交流 </li>
+</ul>
 </p> 
 
+
 <p align=center>  
-  <!-- <img align='left' height="50"  src="https://s2.loli.net/2021/12/08/7fag4CkiItY9lzy.png"/>  -->
   <img align="right" src="https://count.getloli.com/get/@1024shao?theme=rule34">
 </p> 
 
 
-<!-- 𝑰 ❤️ 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!<br/> -->
+<!-- 𝑰 ❤️ 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!<br/> 
+
+嘿，恭喜你发现了邵小白。一个有趣又不仅仅是有趣的前端er！  <img align='center' height="45"  src="https://s2.loli.net/2021/12/08/7fag4CkiItY9lzy.png"/>
+-->
 <!-- :vulcan_salute: 𝑰 𝒑𝒖𝒕 𝒎𝒐𝒔𝒕𝒍𝒚 𝒐𝒇 𝒎𝒚 𝒇𝒐𝒄𝒖𝒔 𝒐𝒏 𝒘𝒆𝒃 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕 𝒘𝒊𝒕𝒉 𝑱𝒂𝒗𝒂𝑺𝒄𝒓𝒊𝒑𝒕, 𝒂𝒏𝒅 𝑰'𝒎 𝒂 𝑽𝒖𝒆.𝒋𝒔 𝒏𝒆𝒓𝒅.  -->
 <br/>
 <br/>
