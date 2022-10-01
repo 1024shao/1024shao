@@ -33,7 +33,7 @@
 
 <!-- ### 🌈 Github Stats: -->
 
-<h3>🌈 最近正在做的事情</h3>
+<h3>🌈 最近正在做的</h3>
 
 <table>
   <thead align="center">
