@@ -1,7 +1,7 @@
 # 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 小白 Shao 
 
 <p align=center>  
-   嘿，恭喜你发现了邵小白。一个热情活泼的前端小白！
+   嘿，恭喜你发现了邵小白。一个有趣又不仅是只有趣的前端小白！
 </p> 
 
 <p align=center>  
@@ -10,15 +10,6 @@
 </p> 
 
 
-<!-- <hr/> -->
-
-<!-- 
-<br>
-**个人博客**:📝 [VuJson's earth](http://81.69.228.97:8090/) 目前还在维护中----
-<br>
-**QQ 账号**:📩 3059680677
-<br>
-**WeChat** :💬 xptz15387507459 欢迎唠嗑 -->
 <!-- 𝑰 ❤️ 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!<br/> -->
 <!-- :vulcan_salute: 𝑰 𝒑𝒖𝒕 𝒎𝒐𝒔𝒕𝒍𝒚 𝒐𝒇 𝒎𝒚 𝒇𝒐𝒄𝒖𝒔 𝒐𝒏 𝒘𝒆𝒃 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕 𝒘𝒊𝒕𝒉 𝑱𝒂𝒗𝒂𝑺𝒄𝒓𝒊𝒑𝒕, 𝒂𝒏𝒅 𝑰'𝒎 𝒂 𝑽𝒖𝒆.𝒋𝒔 𝒏𝒆𝒓𝒅.  -->
 <br/>
@@ -26,6 +17,7 @@
 
 
 ### 🌈 Github Stats:
+
 <img align="left" height='165px' src="https://github-readme-stats.vercel.app/api?username=1024shao&bg_color=10,65db9f,338ed1&title_color=fff&text_color=fff">
 
 
@@ -43,8 +35,12 @@
 **掘金**:📚 [邵小白](https://juejin.cn/user/210745713517950)
 **力扣** 🌲 [邵小白不白也白](https://leetcode.cn/u/vujson/)
 **博客** 📚 [1024shao](https://www.yuque.com/shaoxbya)
-<!-- 
-<hr/>
-<h4 align='center'>外届的声音太嘈杂，听自己的内心就好了</h4> 
--->
+
+## 最近正在做的事情
+- 用 vite 实现一个 MVP 组件库：https://github.com/1024shao/emelun-admin
+- 学习 React 原理 ： https://github.com/1024shao/mini-react 一个简易版本的 React（提升非常大！！）
+- 构建自己的打包器 ： https://github.com/1024shao/mini-rollup
+- todo 准备面试面试ing
+- todo 写一个 babel 插件
+- todo 实现一个监控平台
 
